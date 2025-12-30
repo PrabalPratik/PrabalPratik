@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>SimpleRA v2 — a lightweight relational database engine in C++17.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Open-source backend tools, database engines, or full-stack web platforms.<br><br>🤝 I’m looking for help with<br>Advanced database indexing strategies, and optimizing query execution.<br><br>🌱 I’m currently learning<br>System design patterns, distributed systems, and internals of modern compilers.<br><br>💬 Ask me about<br>DSA (1400+ questions solved), Competitive Programming (Codeforces, LeetCode), or building custom shells & DBMS from scratch.<br><br>⚡ Fun fact<br>I live on the 12th floor
+🔭 I’m currently working on<br>SimpleRA v2 — a lightweight relational database engine in C++17.<br><br>🧑‍🤝‍🧑 I’m looking to collaborate on<br>Open-source backend tools, database engines, or full-stack web platforms.<br><br>🤝 I’m looking for help with<br>Advanced database indexing strategies, and optimizing query execution.<br><br>🌱 I’m currently learning<br>System design patterns, distributed systems, and internals of modern compilers.<br><br>💬 Ask me about<br>DSA (1900+ questions solved), Competitive Programming (Codeforces, LeetCode), or building custom shells & DBMS from scratch.<br><br>⚡ Fun fact<br>I live on the 12th floor
 
 
 ## 🌐 Socials:
